@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yeib/PowerFolder/main/public/tauri.svg" width="120" alt="PowerFolder Logo" />
+  <img src="logo.jpg" width="120" style="border-radius: 20px; box-shadow: 0 0 20px rgba(99, 102, 241, 0.5);" alt="PowerFolder Logo" />
   <h1>⚡ PowerFolder ⚡</h1>
   <p><strong>El explorador de archivos con esteroides. Todo visual, ultrarrápido y centrado en atajos de teclado.</strong></p>
 </div>
