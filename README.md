@@ -36,6 +36,7 @@ PowerFolder se encuentra en fase **[Beta Final]**. Este repositorio público sir
 ---
 
 <div align="center">
-  <i>Desarrollado con ❤️ para power-users, diseñadores y developers por Francisco.</i><br>
+  <i>Desarrollado para power-users por <a href="https://yeib.cl">Yeib</a> </i><br> 
+  <i>¿Necesitas esta herramienta o un desarrollo específico? <a href="mailto:yeib@pm.me">Escríbeme a yeib@pm.me</a> 🚀</i><br>
   <b>Pronto disponible en la Microsoft Store.</b>
 </div>
