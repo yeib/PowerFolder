@@ -54,6 +54,6 @@ PowerFolder se encuentra en fase **[Beta Final - Arquitectura Modularizada]**. E
 ---
 
 <div align="center">
-  <i>Desarrollado con ☕ para power-users, diseñadores y developers por Francisco.</i><br>
+  <i>Desarrollado con ☕ para power-users, diseñadores y developers por Yeib.</i><br>
   <b>Pronto disponible en la Microsoft Store.</b>
 </div>
