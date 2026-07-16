@@ -1,6 +1,6 @@
 <div align="center">
   <img src="logo.jpg" width="120" style="border-radius: 20px; box-shadow: 0 0 20px rgba(99, 102, 241, 0.5);" alt="PowerFolder Logo" />
-  <h1>🚀 PowerFolder 🚀</h1>
+  <h1>🚀 PowerFolder & Ecosistema Yeib 🚀</h1>
   <p><strong>El explorador de archivos con esteroides. Todo visual, ultrarrápido y potenciado con herramientas de grado hacker.</strong></p>
 </div>
 
@@ -10,46 +10,58 @@
 
 PowerFolder es el puente definitivo entre **la velocidad implacable de la terminal Linux/Rust** y **la comodidad visual de una interfaz gráfica moderna**. Si alguna vez sentiste que el explorador nativo de Windows es demasiado lento, torpe, o requiere demasiados clics para tareas simples, **PowerFolder es para ti**.
 
-Nuestro objetivo: **Construir un "Ubuntu ultra-liviano" dentro de Windows.** Evitarte abrir el CMD o el Panel de Control, brindándote superpoderes de sistema operativo directamente al alcance de un clic.
+Nuestro objetivo: **Construir un ecosistema ultra-liviano dentro de Windows.** Evitarte abrir el CMD, descargar programas pesados o ir a webs llenas de anuncios, brindándote superpoderes directamente al alcance de un clic en tu explorador.
 
-## 🛠️ Power Tools (Ya Implementadas)
+## 🛠️ El Ecosistema Yeib (Mini Apps Integradas)
 
-No es solo un explorador; es un arsenal de productividad absoluta. Todo se ejecuta localmente a máxima velocidad:
+PowerFolder ya no es solo un explorador con herramientas sueltas; es un ecosistema completo orquestado por **4 potentes aplicaciones nativas**, diseñadas para funcionar en pantalla completa o acopladas en tu vista de paneles:
 
-* 🪟 **Paneles Duales (Split View):** Divide tu pantalla y lanza archivos de una carpeta a otra como un profesional del *drag & drop*.
-* 🔍 **Buscador Semántico (Deep Search):** Encuentra una palabra específica *dentro* del texto de cientos de documentos, scripts y logs al instante gracias a procesamiento multi-hilo (
-ayon).
+### 🤖 1. Power Actions (Productividad y Automatización)
+El motor de automatización y herramientas avanzadas de sistema.
+* 🧹 **Ordenador de Escritorio:** Clasifica y ordena tu escritorio de Windows por categorías (imágenes, documentos, instaladores) con la opción mágica de "Revertir" si te arrepientes.
+* 🔍 **Deep Search (Búsqueda Profunda):** Encuentra una palabra específica *dentro* del texto de cientos de documentos, scripts y logs al instante gracias a procesamiento multi-hilo (Rayon).
+* 📋 **Historial de Portapapeles:** Presiona Ctrl+Shift+V (o búscalo en la app) para acceder a todo lo que has copiado, con registro temporal.
+* 💻 **Data & Hex Editor:** Editor hexadecimal nativo para modificar archivos crudos (`.sav`, `.vcf`, `.bin`) al vuelo.
+* ⏱️ **Keep Alive:** Evita que tu PC se suspenda, se apague o cambie tu estado a "Ausente".
+
+### 🛡️ 2. Centinela Yeib (Seguridad, Rendimiento y Privacidad)
+Tu guardaespaldas personal. Una alternativa ultra-rápida a CCleaner y Unlocker.
+* 🎯 **Task Killer (Sniper):** Visualiza procesos del sistema y mátalos sin piedad cuando tu PC se congela.
+* 🧹 **Sanitizer (Limpiador de Metadatos):** Destruye el rastreo GPS (EXIF) de tus fotos personales para subirlas con privacidad absoluta.
+* 🧲 **Shredder (Borrado Militar):** Sobrescribe tus archivos con ceros múltiples veces para hacerlos físicamente irrecuperables.
+* 🔓 **Unlocker (Próximamente):** ¿Windows dice que "El archivo está en uso"? Un botón mágico para matar el proceso que lo bloquea y liberarlo.
+
+### 📄 3. PDF Yeib (Gestión de Documentos)
+Toda la manipulación de PDFs que necesitas sin pagar licencias abusivas ni subir tus contratos a la nube.
+* ✨ **Extracción OCR Inteligente:** Convierte el texto de imágenes escaneadas a texto seleccionable en segundos usando el motor nativo de Windows.
+* ✂️ **Split & Merge:** Divide PDFs gigantes o fusiona múltiples documentos en un solo clic.
+* 🔓 **Unlocker / Password Remover:** Elimina contraseñas y restricciones de impresión o edición de PDFs protegidos.
+* 🗜️ **Compresor Rápido:** Reduce drásticamente el peso de tus PDFs para poder enviarlos por correo sin perder legibilidad.
+
+### 🔄 4. Conversor Yeib (Conversión Multimedia Universal)
+El poder de FFmpeg democratizado y con una interfaz hermosa.
+* 🎬 **Video y Audio:** Convierte a MP4, MKV, AVI, MP3, WAV, GIF, AAC, FLAC y más. Incluye preset para optimizar videos para Smart TVs antiguas.
+* ✂️ **Extracción Masiva:** Extrae solamente los audios o los subtítulos (SRT, ASS) de una temporada completa de tu serie en 2 clics.
+* 🖼️ **Imágenes y Textos:** Conversión masiva de WEBP a PNG, compresión de JPEGs con control de calidad (%), redimensionamiento de resoluciones (ej. Full HD a 800x600) y paso de CSV/MD a formatos de lectura.
+* 🔗 **Interconexión:** Si el reproductor integrado de PowerFolder no soporta un video raro, con un clic te envía al Conversor para pasarlo a MP4 al instante.
+
+## 🚀 Funciones Core del Explorador
+
+Además de las 4 Mini-Apps, la **Nave Nodriza** (PowerFolder) cuenta con:
+* 🪟 **Paneles Duales (Split View):** Arrastra archivos de un panel a otro a la velocidad de la luz.
+* 🔍 **Buscador Global Inteligente:** Presiona Ctrl+Space para buscar archivos al estilo Spotlight, o lanzar tus apps favoritas desde cualquier rincón.
 * 🔒 **Bóveda Secreta (Vault):** Cifra y oculta tus archivos más sensibles con encriptación de grado militar AES-256 GCM.
-* 📄 **PDF Yeib & Extracción OCR:** Convierte el texto de imágenes en texto seleccionable, fusiona, extrae imágenes de PDFs masivos, o reduce su peso instantáneamente. Todo sin abrir Adobe.
-* 🎬 **Edición Multimedia al Vuelo:** Comprime videos masivos a formato web, recorta imágenes a sus bordes, o invierte colores en un clic. 
-* 🧹 **Limpieza Extrema (EXIF y CSV):** Destruye el rastreo GPS y la metadata de tus fotos personales para privacidad absoluta.
-* ⏱️ **Productividad Silenciosa:** Un *Time Tracker* pasivo contabiliza cuánto tiempo trabajas. Incluye un *Mouse Jiggler* (Keep-Alive) para evitar que tu PC se suspenda o aparezcas como "Ausente".
-* 📋 **Historial de Portapapeles Inteligente:** Presiona Ctrl+Shift+V para acceder a todo lo que has copiado con registro de tiempo.
-* 🗑️ **Buscador de Duplicados & Renombrado Masivo:** Limpia tu disco duro en un abrir y cerrar de ojos, y renombra miles de archivos simultáneamente.
-* 👁️ **Visores Nativos Universales:** Lee textos, PDFs, Markdown, fotos, videos y audios directamente desde la app.
-
-## 🚀 Próximamente (El Master Roadmap)
-
-Estamos desarrollando herramientas revolucionarias para transformar por completo tu flujo de trabajo:
-
-* 🤖 **Programador de Acciones Secuenciales:** El poder total de automatización (IF THIS THEN THAT). Programa archivos para que se auto-eliminen a cierta hora, o configura cadenas de comandos (Ej: "buscar todo lo modificado en las últimas 2 horas y moverlo a la carpeta X").
-* 👻 **Dual View "Sticky":** Una ventana fantasma y flotante (siempre arriba) para pegar fragmentos de texto, ideal para no estropear tu layout al programar o investigar.
-* 🔓 **Unlocker Nativo:** ¿Windows dice que "El archivo está en uso"? PowerFolder ofrecerá un botón mágico para matar el proceso y borrarlo.
-* 📱 **Generador QR y Puente Móvil:** Pasa fotos de tu celular a la PC al instante abriendo un mini-servidor local ultra rápido.
-* 🎧 **Mezclador de Audio (Per-App):** Configura volúmenes y salidas de audio individuales por aplicación.
-* 🧲 **Borrado Profundo (Shredder Gutmann):** Escribe ceros 35 veces sobre un archivo para hacerlo físicamente irrecuperable.
-* 🎨 **Filtro Glitch Art:** Corrompe un 2% del binario de una imagen intencionalmente para diseñadores gráficos.
-* ✨ **Diff Viewer (Comparador de Texto), Modo Nocturno, Falsificador de Timestamps, Desconexión de Emergencia de USB, y más...**
+* 👁️ **Visores Nativos:** Lee código, textos, Markdown, HEX, reproduce música, audios y videos directamente sin salir de la app.
 
 ## 🦀 Tecnología bajo el capó
 
 PowerFolder está diseñado obsesivamente para consumir la mínima RAM posible y abrir en milisegundos.
-- **Tauri & Rust:** Interacción con el sistema de archivos a niveles bajos con rendimiento nativo extremo y multi-hilo.
-- **React & TypeScript:** Interfaz moderna, vibrante y fluida, construida con arquitectura modular.
+- **Tauri & Rust:** Interacción con el sistema operativo a muy bajo nivel con rendimiento nativo extremo y multi-hilo.
+- **React & TypeScript:** Interfaz moderna, vibrante y fluida, construida con arquitectura modular de ventanas embebidas.
 
 ## 🚀 Estado del Proyecto
 
-PowerFolder se encuentra en fase **[Beta Final - Arquitectura Modularizada]**. Este repositorio público sirve como landing page y vitrina. El núcleo de la aplicación (powerfolder-core) se mantiene privado.
+PowerFolder se encuentra en fase **[Beta Final - Arquitectura Modularizada]**. Este repositorio público sirve como landing page y vitrina. El núcleo de la aplicación se mantiene privado y pronto iniciará su extracción modular para ser publicado.
 
 ---
 
